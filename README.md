@@ -12,14 +12,14 @@ This project explores patterns in social media usage through data analysis and m
   - Advanced filtering and conditional queries.
 - Complex **queries** were performed to analyze trends based on gender, location, and platform usage.
 
-### **2️) Data Analysis & Visualization (Python)**
+### **2) Data Analysis & Visualization (Python)**
 - The dataset was exported from SQL and processed using **Pandas**.
 - Visualizations were created using **Matplotlib** and **Seaborn** to explore:
   - Trends in **user engagement**.
   - Differences in **platform popularity**.
   - Correlations between **demographics and usage**.
 
-### **3️) Predictive Modeling (Machine Learning)**
+### **3) Predictive Modeling (Machine Learning)**
 - A **Linear Regression model** was trained to predict `time_spent` on social media.
 - Features such as **age and income** were used to build the model.
 - Mean Absolute Error (**MAE**) was calculated to evaluate model performance.
